@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "mriedman.github.io/golf/static/css/main.b640b675.chunk.css",
+    "main.js": "mriedman.github.io/golf/static/js/main.d65eb666.chunk.js",
+    "main.js.map": "mriedman.github.io/golf/static/js/main.d65eb666.chunk.js.map",
+    "runtime~main.js": "mriedman.github.io/golf/static/js/runtime~main.90b23e35.js",
+    "runtime~main.js.map": "mriedman.github.io/golf/static/js/runtime~main.90b23e35.js.map",
+    "static/js/2.6c5bef6a.chunk.js": "mriedman.github.io/golf/static/js/2.6c5bef6a.chunk.js",
+    "static/js/2.6c5bef6a.chunk.js.map": "mriedman.github.io/golf/static/js/2.6c5bef6a.chunk.js.map",
+    "index.html": "mriedman.github.io/golf/index.html",
+    "precache-manifest.0e43605a1ed304d1d44deb9f22192ffd.js": "mriedman.github.io/golf/precache-manifest.0e43605a1ed304d1d44deb9f22192ffd.js",
+    "service-worker.js": "mriedman.github.io/golf/service-worker.js",
+    "static/css/main.b640b675.chunk.css.map": "mriedman.github.io/golf/static/css/main.b640b675.chunk.css.map"
+  }
+}
