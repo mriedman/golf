@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "856c4b7c6bda7f17abbe1e715b03fa50",
+    "revision": "e25fbc98aed290229d2e1c13176fa4d1",
     "url": "/golf/index.html"
   },
   {
-    "revision": "32fe6a0dfe26c50a883f",
+    "revision": "1aabe91460135d687020",
     "url": "/golf/static/css/main.32018c9e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golf/static/js/2.9e15f3e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32fe6a0dfe26c50a883f",
-    "url": "/golf/static/js/main.f7997b17.chunk.js"
+    "revision": "1aabe91460135d687020",
+    "url": "/golf/static/js/main.b4bc72c9.chunk.js"
   },
   {
     "revision": "897403e54bd73e7a36db",
