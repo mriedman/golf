@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/golf/static/css/main.2249b10c.chunk.css",
-    "main.js": "/golf/static/js/main.668e455d.chunk.js",
-    "main.js.map": "/golf/static/js/main.668e455d.chunk.js.map",
+    "main.js": "/golf/static/js/main.2e535e14.chunk.js",
+    "main.js.map": "/golf/static/js/main.2e535e14.chunk.js.map",
     "runtime-main.js": "/golf/static/js/runtime-main.2a8690d3.js",
     "runtime-main.js.map": "/golf/static/js/runtime-main.2a8690d3.js.map",
     "static/js/2.5c53d7e3.chunk.js": "/golf/static/js/2.5c53d7e3.chunk.js",
     "static/js/2.5c53d7e3.chunk.js.map": "/golf/static/js/2.5c53d7e3.chunk.js.map",
     "index.html": "/golf/index.html",
-    "precache-manifest.fd087784dc0116eb1954b5fc0b9060c4.js": "/golf/precache-manifest.fd087784dc0116eb1954b5fc0b9060c4.js",
+    "precache-manifest.d425c606762f8801736d49d66b9071db.js": "/golf/precache-manifest.d425c606762f8801736d49d66b9071db.js",
     "service-worker.js": "/golf/service-worker.js",
     "static/css/main.2249b10c.chunk.css.map": "/golf/static/css/main.2249b10c.chunk.css.map",
     "static/js/2.5c53d7e3.chunk.js.LICENSE.txt": "/golf/static/js/2.5c53d7e3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2a8690d3.js",
     "static/js/2.5c53d7e3.chunk.js",
     "static/css/main.2249b10c.chunk.css",
-    "static/js/main.668e455d.chunk.js"
+    "static/js/main.2e535e14.chunk.js"
   ]
 }
